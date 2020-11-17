@@ -49,7 +49,7 @@ ItemDisplay[RUNE>0]: %RUNENUM% - %NAME%%CONTINUE%
 // Color Mod
 ItemDisplay[RUNE>0 RUNE<10]: %WHITE%%NAME%
 ItemDisplay[RUNE>9 RUNE<17]: %GOLD%%NAME%
-ItemDisplay[RUNE>16 RUNE<11]: %ORANGE%%NAME%
+ItemDisplay[RUNE>16 RUNE<23]: %ORANGE%%NAME%
 ItemDisplay[RUNE>22]: %RED%%NAME%
 
 
